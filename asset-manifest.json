@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-todoey-app/static/css/main.bba6b7e0.chunk.css",
-    "main.js": "/react-todoey-app/static/js/main.13256b04.chunk.js",
-    "main.js.map": "/react-todoey-app/static/js/main.13256b04.chunk.js.map",
+    "main.js": "/react-todoey-app/static/js/main.956163bb.chunk.js",
+    "main.js.map": "/react-todoey-app/static/js/main.956163bb.chunk.js.map",
     "runtime-main.js": "/react-todoey-app/static/js/runtime-main.00bd7334.js",
     "runtime-main.js.map": "/react-todoey-app/static/js/runtime-main.00bd7334.js.map",
-    "static/js/2.394a07ed.chunk.js": "/react-todoey-app/static/js/2.394a07ed.chunk.js",
-    "static/js/2.394a07ed.chunk.js.map": "/react-todoey-app/static/js/2.394a07ed.chunk.js.map",
+    "static/js/2.d9edb59b.chunk.js": "/react-todoey-app/static/js/2.d9edb59b.chunk.js",
+    "static/js/2.d9edb59b.chunk.js.map": "/react-todoey-app/static/js/2.d9edb59b.chunk.js.map",
     "index.html": "/react-todoey-app/index.html",
-    "precache-manifest.d6a1d7b7aa84d2e234083f9c326efaae.js": "/react-todoey-app/precache-manifest.d6a1d7b7aa84d2e234083f9c326efaae.js",
+    "precache-manifest.6b0f430da3538c93068c4534a3289c4d.js": "/react-todoey-app/precache-manifest.6b0f430da3538c93068c4534a3289c4d.js",
     "service-worker.js": "/react-todoey-app/service-worker.js",
     "static/css/main.bba6b7e0.chunk.css.map": "/react-todoey-app/static/css/main.bba6b7e0.chunk.css.map",
-    "static/js/2.394a07ed.chunk.js.LICENSE.txt": "/react-todoey-app/static/js/2.394a07ed.chunk.js.LICENSE.txt"
+    "static/js/2.d9edb59b.chunk.js.LICENSE.txt": "/react-todoey-app/static/js/2.d9edb59b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00bd7334.js",
-    "static/js/2.394a07ed.chunk.js",
+    "static/js/2.d9edb59b.chunk.js",
     "static/css/main.bba6b7e0.chunk.css",
-    "static/js/main.13256b04.chunk.js"
+    "static/js/main.956163bb.chunk.js"
   ]
 }
